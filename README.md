@@ -2,6 +2,8 @@
 
 👨‍💻 My name is Trương Anh Khoa and I'm studying Software Engineer at University of Information Technology, Vietnam National University Ho Chi Minh City
 
+<p> Contact me via: <img href="https://facebook.com/khoatruong.13" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png"> </p> 
+
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 <!---
