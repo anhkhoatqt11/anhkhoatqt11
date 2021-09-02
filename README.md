@@ -1,6 +1,6 @@
 <h1> Hi, I'm Khoa ! <img width="43px" src="https://i.imgur.com/mQpRWAK.png">  </img> </h1>
 
-👨‍💻 My name is <b> Trương Anh Khoa </b> and I'm studying Software Engineer at University of Information Technology, Vietnam National University Ho Chi Minh City
+👨‍💻 My name is <b> Trương Anh Khoa </b> and I'm studying Software Engineering at University of Information Technology, Vietnam National University Ho Chi Minh City
 
 📠 <span> Contact me via: </span> <a href="https://facebook.com/khoatruong.13">Facebook</a> |  <a href="mailto:anhkhoatqt11@gmail.com">Email</a>
 
