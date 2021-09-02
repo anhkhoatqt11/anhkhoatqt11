@@ -1,6 +1,6 @@
 <h1> Hi, I'm Khoa ! <img width="43px" src="https://i.imgur.com/mQpRWAK.png">  </img> </h1>
 
-👨‍💻 My name is Truong Anh Khoa and I'm studying Software Engineer at University of Information Technology, Vietnam National University Ho Chi Minh City
+👨‍💻 My name is Trương Anh Khoa and I'm studying Software Engineer at University of Information Technology, Vietnam National University Ho Chi Minh City
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
