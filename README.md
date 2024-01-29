@@ -1,7 +1,7 @@
 <h1> <img width="43px" src="https://i.imgur.com/mQpRWAK.png">  </img> Hi, I'm Khoa !</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on something really cool 👀, and I cannot wait to share it with the world.<br>🌱 I’m currently learning React and React Native.<br>💬 Ask me about anything ✌.<br>⚡ A small fact about my developer career: the first application I built is a WPF app. <br> 👨‍🎓 Currently studying Software Engineering at VNUHCM - UIT.
+🔭 I’m currently working on something really cool 👀, and I cannot wait to share it with the world.<br>🌱 I’m currently learning Dart and Flutter.<br>💬 Ask me about anything ✌.<br>⚡ A small fact about my developer career: the first application I built is a WPF app. <br> 👨‍🎓 Currently studying Software Engineering at VNUHCM - UIT.
 
 
 ## 🌐 Socials:
