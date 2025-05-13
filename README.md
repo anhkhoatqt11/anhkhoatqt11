@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Trương Anh Khoa!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Frontend+Developer;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2E8B57&center=true&vCenter=true&random=false&width=600&lines=Web+Developer;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
